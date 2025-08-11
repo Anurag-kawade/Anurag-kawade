@@ -1,8 +1,8 @@
 <div align="center">
 
-###<b> Hi 👋, I'm Anurag Kawade </b>
+###<h1> Hi 👋, I'm Anurag Kawade </h1>
 
-🚀 **MERN Developer | Cloud Enthusiast | DSA Learner**  
+🚀 **<b>MERN Developer | Cloud Enthusiast | DSA Learner</b>**  
 </div>
 
 -📫 **Connect with me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone: +91 7276570717  
