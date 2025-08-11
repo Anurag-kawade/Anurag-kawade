@@ -2,7 +2,7 @@
 
 <h1> Hi 👋, I'm Anurag Kawade </h1>
 
-**🚀<h3><b>MERN Developer | Cloud Enthusiast | DSA Learner</b></h3>**  
+**<h3><b>🚀MERN Developer | Cloud Enthusiast | DSA Learner</b></h3>**  
 </div>
 
 -📫 **How to reach me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone no. : +91 7276570717  
