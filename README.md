@@ -5,7 +5,7 @@
 **<h3><b>🚀MERN Developer | Cloud Enthusiast | DSA Learner</b></h3>**  
 </div>
 
--📫 **How to reach me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone no. : +91 7276570717  
+-📫 **<h4>How to reach me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone no. : +91 7276570717  </h4>
 
 
 💡 I’m currently working on:
