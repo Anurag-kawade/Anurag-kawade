@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi 👋, I'm Anurag Kawade  
 
 🚀 **MERN Developer | Cloud Enthusiast | DSA Learner**  
@@ -10,10 +12,10 @@
 - Student Project Management System
 - Preparing for Cloud Certifications
 
+---
 
-
+<!-- Connect with me -->
 ## 🌐 Connect with me:
-
 <a href="https://www.linkedin.com/in/anurag-kawade-70b7a7332" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
@@ -21,11 +23,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
 </a>
 
+---
 
-
+<!-- Languages -->
 ## 💻 Languages and Tools:
-
-<p align="left"> 
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
@@ -41,9 +43,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </p>
 
+---
 
 
+<!-- Stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-kawade&layout=compact&theme=default)
+
+</div>
 
 
 
