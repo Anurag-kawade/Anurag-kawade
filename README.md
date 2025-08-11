@@ -1,18 +1,18 @@
 <div align="center">
 
-###<h1> Hi 👋, I'm Anurag Kawade </h1>
+<h1> Hi 👋, I'm Anurag Kawade </h1>
 
-🚀 **<b>MERN Developer | Cloud Enthusiast | DSA Learner</b>**  
+🚀 **<h3><b>MERN Developer | Cloud Enthusiast | DSA Learner</b></h3>**  
 </div>
 
--📫 **Connect with me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone: +91 7276570717  
+-📫 **How to reach me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone no. : +91 7276570717  
 
 
 💡 I’m currently working on:
 - Student Project Management System
 - Preparing for Cloud Certifications
 
----
+
 
 <!-- Connect with me -->
 ## 🌐 Connect with me:
@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
 </a>
 
----
+
 
 <!-- Languages -->
 ## 💻 Languages and Tools:
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </p>
 
----
+
 
 
 <!-- Stats -->
