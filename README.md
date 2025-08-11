@@ -3,9 +3,9 @@
 ### Hi 👋, I'm Anurag Kawade  
 
 🚀 **MERN Developer | Cloud Enthusiast | DSA Learner**  
+</div>
 
-📫 **How to reach me**  
-- Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone: +91 7276570717  
+-📫 **Connect with me:** Email: [anurag.workzone@gmail.com](mailto:anurag.workzone@gmail.com) , Phone: +91 7276570717  
 
 
 💡 I’m currently working on:
@@ -49,7 +49,6 @@
 <!-- Stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-kawade&layout=compact&theme=default)
 
-</div>
 
 
 
