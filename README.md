@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi 👋, I'm Anurag Kawade  
+###<b> Hi 👋, I'm Anurag Kawade </b>
 
 🚀 **MERN Developer | Cloud Enthusiast | DSA Learner**  
 </div>
