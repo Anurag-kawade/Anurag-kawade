@@ -13,5 +13,12 @@
 
 
 ## 🌐 Connect with me:
-💼 LinkedIn - [Anurag Kawade](https://www.linkedin.com/in/anurag-kawade-70b7a7332)  
-💬 WhatsApp - [Chat with me](https://wa.me/7276570717)
+
+<a href="https://www.linkedin.com/in/anurag-kawade-70b7a7332" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://wa.me/7276570717" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
+
+
